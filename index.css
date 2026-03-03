@@ -7,7 +7,8 @@ body{
     background-color: #F3E5D8;
     padding: 30px;
     display: flex;
-    justify-content: center
+    justify-content: center;
+
    
     
 }
@@ -26,12 +27,14 @@ body{
 }
 h1{
     margin-bottom: 5px;
+
 }
 h2{
     margin-bottom: 15px;
+
 }
 .recipe{
-    font-size:13px;
+    font-size:14px;
 }
 .preparation{
     width: 100%;
@@ -43,7 +46,7 @@ h2{
 }
 .points{
     margin-left: 30px;
-    font-size: 15px;
+    font-size: 14px;
 }
 .one{
     color: darkmagenta;
